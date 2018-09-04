@@ -14,3 +14,5 @@
 - What is the difference between Git and GitHub
 - How to write helpful commit messages
 - Which files should and which files should not appear in your repo
+
+updating read me 
